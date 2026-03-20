@@ -11,7 +11,7 @@ Real-time exchange rates powered by the free [Frankfurter API](https://www.frank
 
 ## Screenshot
 
-> _Add a screenshot here — `docs/screenshot.png`_
+![Screenshot](docs/screenshot.png)
 
 ---
 
